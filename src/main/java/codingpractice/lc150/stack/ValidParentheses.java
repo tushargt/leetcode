@@ -1,4 +1,4 @@
-package codingpractice.lc150;
+package codingpractice.lc150.stack;
 
 /*
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
